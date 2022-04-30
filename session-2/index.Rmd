@@ -6,6 +6,8 @@ date: "2022/04/1"
 output:
   xaringan::moon_reader:
     lib_dir: libs
+    includes:
+         in_header: base.html
     nature:
       highlightStyle: github
       highlightLines: true
