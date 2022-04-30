@@ -4,8 +4,8 @@ This is the resource material for the Web Development Interest Group at Srishti.
 
 | **Session** | **Repository** | **URL** |
 | --- | --- | --- |
-| 1 | [Session 1 Repo](/session-1/) | [Session 1 Repo](https://thedivtagguy.com/web-dev/1) |
-| 2 | [Session 2 Repo](/session-2/) | [Session 2 Repo](https://thedivtagguy.com/web-dev/2) |
+| 1 | [Session 1 Repo](/session-1/) | [Session 1](https://thedivtagguy.com/web-dev/1) |
+| 2 | [Session 2 Repo](/session-2/) | [Session 2](https://thedivtagguy.com/web-dev/2) |
 
 # License
 
